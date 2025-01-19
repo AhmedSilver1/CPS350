@@ -34,3 +34,6 @@ This section is about reviweing OOP using Java.
 "Is the abilty of OOP to use methods with same name, but with different aplications."  [Geek for Geeks](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
 
 
+### Project1 : OOP - Cafe Menu:
+Overview: This is an excerise to implement Java OOP for a cafe menu prodcut.
+
