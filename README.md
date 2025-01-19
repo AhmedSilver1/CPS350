@@ -1,7 +1,9 @@
-# Arduino Circuits Projects
+# Data Structures and Algorthims
 
 ## Table of Content
 - [Overview](#overview)
+- [Java reiview](#Java-review)
+- 
 
 ## Overview   
 
@@ -9,7 +11,7 @@ This repository documents my learning process in data structures and algorthims 
 
 
 
-## Java reiview
+## Java review
 This section is about reviweing OOP using Java.
 
 ### Object-Oriented Programming
