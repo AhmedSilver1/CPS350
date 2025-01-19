@@ -3,8 +3,8 @@
 ## Table of Content
 - [Overview](#overview)
 - [Java reiview](#Java-review)
--[Java reiview](#Object-Oriented-Programming)
--[Project1 : OOP - Cafe Menu](#Project1-:-OOP---Cafe-Menu)
+- [OOP](#OOP)
+- [Project1-OOP](#Project1-OOP)
 
 ## Overview   
 
@@ -15,7 +15,7 @@ This repository documents my learning process in data structures and algorthims 
 ## Java review
 This section is about reviweing OOP using Java.
 
-### Object-Oriented Programming
+### OOP
 "Object -Oriented Progamming refers to using objects in programmnig that have real life objects propperties." [Geek for Geeks](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
 
 #### Java class: 
@@ -37,6 +37,6 @@ This section is about reviweing OOP using Java.
 "Is the abilty of OOP to use methods with same name, but with different aplications."  [Geek for Geeks](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
 
 
-### Project1 : OOP - Cafe Menu:
+### Project1-OOP:
 Overview: This is an excerise to implement Java OOP for a cafe menu prodcut.
 
