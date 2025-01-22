@@ -39,4 +39,10 @@ This section is about reviweing OOP using Java.
 
 ### Project1-OOP:
 Overview: This is an excerise to implement Java OOP for a cafe menu prodcut.
+![practice drawio](https://github.com/user-attachments/assets/ea389f18-c813-4f8e-bcd0-a4b15508ce69)
 
+
+![image](https://github.com/user-attachments/assets/0505ea6f-988f-4fe7-8750-9a3f13e2dd1a)
+![image](https://github.com/user-attachments/assets/b587f2b2-a549-43c6-9af9-ad5e38d2268d)
+
+[Click here to access the source code]()
