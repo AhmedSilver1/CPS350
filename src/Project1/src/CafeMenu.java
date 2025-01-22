@@ -8,12 +8,21 @@ public class CafeMenu {
 	private int qunaitiy;
 
 	//Methods
+	//Constructor
 	CafeMenu(String size, double price, String temp, int qunaitiy){
 		this.size = size;
 		this.price = price;
 		this.temp = temp;
 		this.qunaitiy = qunaitiy;
 	}
+	
+	public CafeMenu(String size, double price, int qunaitiy) {
+		
+		this.size = size;
+		this.price = price;
+		this.qunaitiy = qunaitiy;
+	}
+
 	public String getSize() {
 		return size;
 	}
@@ -46,6 +55,9 @@ public class CafeMenu {
 		this.qunaitiy = qunaitiy;
 	}
 
-	
+	@Override
+	public String toString() {
+		return "CafeMenu [size=" + size + ", price=" + price + ", temp=" + temp + ", qunaitiy=" + qunaitiy + "]";
+	}
 	
 }
